@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: "\U0001FAB2 Bug report"
 about: 발견한 버그를 알려주세요
 title: "[BUG]"
 labels: ''
